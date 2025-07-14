@@ -41,11 +41,5 @@ Primary objective is to identify the loop hole in the process and mitigate the c
 * Seaborn
 
 
-# _Acknowledgements_
-
-This project was inspired by live session of upGrad on EDA by Akash Akash.
-UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform.
-
-
 # Collaborators
 Created by Keshav Gupta and Deepika Hegde
